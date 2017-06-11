@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1494538536 source:\\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\lab5\minimum_asm.s
+
+1494538309 source:\\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\lab5\main.c
+	<stdio.h>
+	<stdint.h>
+	<limits.h>
+	"library.h"
+
+1460826432 \\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\\library.h
+

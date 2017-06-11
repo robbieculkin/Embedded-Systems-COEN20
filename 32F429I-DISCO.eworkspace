@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_workspace_file>
+	<Workspace title="32F429I-DISCO">
+		<Project filename="Sample_Program/Sample_Program.ebp" />
+		<Project filename="LAB2/LAB2.ebp" />
+		<Project filename="LAB3/LAB3.ebp" />
+		<Project filename="LAB4/LAB4.ebp" />
+		<Project filename="LAB5/LAB55.ebp" />
+		<Project filename="LAB6/LAB6.ebp" />
+		<Project filename="LAB7/LAB7.ebp" />
+		<Project filename="LAB8/LAB8.ebp" />
+		<Project filename="LAB9/LAB9.ebp" active="1" />
+	</Workspace>
+</EmBitz_workspace_file>

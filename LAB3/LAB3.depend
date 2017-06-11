@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1493328382 source:\\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\lab3\main.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+
+1460826432 \\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\\library.h
+
+1493328703 source:\\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\lab3\pword.s
+

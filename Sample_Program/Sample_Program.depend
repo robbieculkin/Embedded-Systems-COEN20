@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1461266584 source:\\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\sample_program\main.c
+	<stdio.h>
+	<stdint.h>
+	"library.h"
+
+1460826432 \\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\\library.h
+
+1461266726 source:\\samba1\rculkin\dcengr\desktop\coen20\embitzworkspace\sample_program\add1function.s
+
